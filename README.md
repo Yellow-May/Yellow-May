@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - I focus mainly on ReactJs with Typescript as well as Nodejs!, feel free to ask me about them 💬
 - I have a fancy for css so feel free to reach out for collaborations and projects as well
 - I am currently working 🔭 on a social media app https://github.com/Yellow-May/postiegram, give it a star while you are there 😄
-- I am currently learning about Testing, Vuejs and Storybook 🌱
+- I am currently learning about Testing, Storybook, Vuejs, Socket.io and React Native 🌱
 
 ## Contact Details
 
