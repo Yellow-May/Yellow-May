@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 ## I am Onyekwere Precious, a Full stack developer
 
-- I focus mainly on ReactJs with Typescript as well as Nodejs!, feel free to ask me about them 💬
+- ReactJs with Typescript, NextJs as well as Nodejs!, feel free to ask me about them 💬
 - I have a fancy for css so feel free to reach out for collaborations and projects as well
 - I am currently working 🔭 on a social media app https://github.com/Yellow-May/postiegram, give it a star while you are there 😄
 - I am currently learning about Testing, Storybook, Vuejs, Socket.io and React Native 🌱
 
 ## Contact Details
 
-- Website - [The Yellow May](https://yellow-may.vercel.app/)
+- Website - [The Yellow May](https://onyekwere-precious-dev.vercel.app/)
 - Frontend Mentor - [@Yellow-May](https://www.frontendmentor.io/profile/Yellow-May)
 - Linkedin - [Precious Onyekwere](https://www.linkedin.com/in/precious-onyekwere-7a87001b5/)
