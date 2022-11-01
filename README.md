@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 # Hello There 👋
 
-## I am Onyekwere Precious, a Full stack developer
+## I am Onyekwere Precious, a Full stack web developer
 
-- ReactJs with Typescript, NextJs as well as Nodejs!, feel free to ask me about them 💬
+- ReactJs with Typescript, NextJs, VueJs, Svelte as well as Nodejs!, feel free to ask me about them 💬
 - I have a fancy for css so feel free to reach out for collaborations and projects as well
 - I am currently working 🔭 on a social media app https://github.com/Yellow-May/postiegram, give it a star while you are there 😄
-- I am currently learning about Testing, Storybook, Vuejs, Socket.io and React Native 🌱
+- I am currently learning about Containers, CICD, and Testing 🌱
 
 ## Contact Details
 
