@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## I am Onyekwere Precious, a Full stack web developer
 
-- ReactJs with Typescript, NextJs, VueJs, Svelte as well as Nodejs!, feel free to ask me about them 💬
+- ReactJs with Typescript, NextJs, VueJs, Svelte, Astro as well as Nodejs and Laravel!, feel free to ask me about them 💬
 - I have a fancy for css so feel free to reach out for collaborations and projects as well 👯
 - I am currently learning about Software Developments and Testing 🌱
 
